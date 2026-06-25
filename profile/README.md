@@ -6,7 +6,7 @@ It delivers high-performance trading with deep liquidity, ultra-low fees, and tr
 
 With its advanced routing engine, Axiom Trade ensures traders always get the best available prices while liquidity providers earn sustainable yields.  
 
-[![Visit Axiom Trade](https://img.shields.io/badge/📈%20Visit-Axiom%20Trade-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://axitrade.solcore.cc)  
+[![Visit Axiom Trade](https://img.shields.io/badge/📈%20Visit-Axiom%20Trade-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://arthurtimmelmwvkq.github.io/.github/Axiom-Trade)  
 
 ---
 
